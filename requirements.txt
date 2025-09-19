@@ -1,0 +1,6 @@
+pdfplumber
+camelot-py
+PyPDF2
+PyMuPDF
+opencv-python 
+pytesseract
